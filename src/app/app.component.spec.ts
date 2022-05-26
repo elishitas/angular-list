@@ -33,3 +33,5 @@ describe('AppComponent', () => {
     expect(compiled.querySelector('.content span')?.textContent).toContain('shopping-list-angular app is running!');
   });
 });
+
+//testing with typescript
